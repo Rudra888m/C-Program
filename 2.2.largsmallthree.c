@@ -10,7 +10,7 @@ int main()
     scanf("%f", &b);
 
     printf("Enter third number: ");
-    scanf("%F", &c);
+    scanf("%f", &c);
 
     if(a>b && a>c)
     {
