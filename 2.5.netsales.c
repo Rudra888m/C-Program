@@ -25,7 +25,7 @@ int main()
     {
         disc = 0.05 * gross_sal;
         net_sal = gross_sal - disc;
-        printf("Your net sales is: %F", net_sal);
+        printf("Your net sales is: %f", net_sal);
     }
     return 0;
 }
